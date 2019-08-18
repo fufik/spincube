@@ -1,0 +1,4 @@
+An example of spinning cube made in OpenGL and C++
+The picture belongs to Atlus and is an object of its intellectual property. 
+The code belongs to me and one can use it however one wishes
+One should compile it with "make all", clean with "make clean", launch with "./bin/example"
